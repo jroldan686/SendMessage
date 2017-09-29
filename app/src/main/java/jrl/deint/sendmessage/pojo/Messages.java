@@ -1,8 +1,5 @@
 package jrl.deint.sendmessage.pojo;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-
 import java.io.Serializable;
 
 /**

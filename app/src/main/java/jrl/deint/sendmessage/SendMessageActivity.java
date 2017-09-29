@@ -1,7 +1,6 @@
 package jrl.deint.sendmessage;
 
 import android.content.Intent;
-import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
